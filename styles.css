@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #87CEEB 0%, #4682B4 100%);
     min-height: 100vh;
     color: #333;
 }
@@ -57,11 +57,11 @@ main {
 }
 
 .result-section {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #5F9EA0 0%, #4682B4 100%);
     border-radius: 12px;
     padding: 40px;
     color: white;
-    box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 10px 25px rgba(70, 130, 180, 0.3);
     animation: slideUp 0.5s ease-out;
 }
 
@@ -101,7 +101,7 @@ main {
 .new-calculation-btn {
     padding: 12px 30px;
     background: white;
-    color: #667eea;
+    color: #4682B4;
     border: none;
     border-radius: 8px;
     font-size: 1rem;
@@ -134,7 +134,7 @@ main {
 
 .form-actions .submit-btn {
     padding: 15px 40px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #5F9EA0 0%, #4682B4 100%);
     color: white;
     border: none;
     border-radius: 8px;
@@ -179,14 +179,14 @@ main {
 }
 
 .option-card label:hover {
-    border-color: #667eea;
+    border-color: #4682B4;
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
 .option-card input[type="radio"]:checked + label {
-    border-color: #667eea;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-color: #4682B4;
+    background: linear-gradient(135deg, #5F9EA0 0%, #4682B4 100%);
     color: white;
 }
 
@@ -255,7 +255,7 @@ main {
 
 .input-group input:focus {
     outline: none;
-    border-color: #667eea;
+    border-color: #4682B4;
 }
 
 
@@ -453,7 +453,7 @@ main {
 .contact-btn {
     padding: 12px 30px;
     background: white;
-    color: #667eea;
+    color: #4682B4;
     border: none;
     border-radius: 8px;
     font-size: 1rem;
@@ -545,13 +545,13 @@ main {
 .form-group input:focus,
 .form-group select:focus {
     outline: none;
-    border-color: #667eea;
+    border-color: #4682B4;
 }
 
 .submit-btn {
     width: 100%;
     padding: 15px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #5F9EA0 0%, #4682B4 100%);
     color: white;
     border: none;
     border-radius: 8px;
@@ -610,7 +610,7 @@ main {
 
 .new-quote-btn {
     padding: 15px 40px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #5F9EA0 0%, #4682B4 100%);
     color: white;
     border: none;
     border-radius: 8px;
